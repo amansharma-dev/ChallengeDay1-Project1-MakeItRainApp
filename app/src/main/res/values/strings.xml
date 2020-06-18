@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ChallengeDay1-Project1-MakeItRainApp</string>
+    <string name="text_title">You have</string>
+    <string name="showToastMsg">Show Toast Message</string>
+    <string name="showLogMsg">Show Log Message</string>
+    <string name="makeItRain">Make It Rain</string>
+    <string name="text_amount">$0</string>
+    <string name="text_toastAmountIs">Toast Message</string>
 </resources>
