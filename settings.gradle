@@ -1,0 +1,2 @@
+rootProject.name='ChallengeDay1-Project1-MakeItRainApp'
+include ':app'
